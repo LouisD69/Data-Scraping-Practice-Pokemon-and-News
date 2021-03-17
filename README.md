@@ -1,1 +1,5 @@
-# Data-Scraping-Practice-Pokemon-and-News-
+# Data-Scraping-Practice-Pokemon-and-News
+
+For academic purpose only.
+
+

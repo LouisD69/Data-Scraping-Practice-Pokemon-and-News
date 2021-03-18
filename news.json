@@ -2,7 +2,9 @@
     {
         "date": "03/12/2021, 12:23:13",
         "title": "Spurred by Tragedy to a Life of Female Empowerment",
-        "full_article": "https://www.nytimes.com/2021/03/12/world/africa/senegal-female-empowerment-diouf-fishing.html",
+        "link": "https://www.nytimes.com/2021/03/12/world/africa/senegal-female-empowerment-diouf-fishing.html",
+        "abstract": "After her son’s death, Yayi Bayam Diouf decided to fish for a living. That meant challenging Senegal’s patriarchy. She won, and brought countless women with her.",
+        "content": "THIAROYE-SUR-MER, Senegal — Sometimes when she’s alone and looking at the sea, Yayi Bayam Diouf imagines the silhouette of her son passing over the waters offshore.",
         "author": [
             "Aida Alami"
         ]
@@ -10,16 +12,20 @@
     {
         "date": "03/11/2021, 01:07:17",
         "title": "Aide Says Cuomo Groped Her, as New Details of Account Emerge",
-        "full_article": "https://www.nytimes.com/2021/03/10/nyregion/andrew-cuomo-sexual-harassment.html",
+        "link": "https://www.nytimes.com/2021/03/10/nyregion/andrew-cuomo-sexual-harassment.html",
+        "abstract": "Gov. Andrew Cuomo characterized the new allegations as “gut-wrenching,” but insisted that he has “never done anything like this.”",
+        "content": "An aide to Gov. Andrew M. Cuomo who had accused the governor of improper behavior said that Mr. Cuomo had groped her in the Executive Mansion, according to new details of her account reported by The Times Union of Albany.",
         "author": [
             "Luis Ferré-Sadurní",
-            "Jesse Mckinley"
+            "Jesse McKinley"
         ]
     },
     {
         "date": "03/11/2021, 12:44:58",
         "title": "Even Stuck at Home, These Clothes Will Take You Places",
-        "full_article": "https://www.nytimes.com/2021/03/11/style/Chanel-Louis-Vuitton-Balmain-fashion-shows.html",
+        "link": "https://www.nytimes.com/2021/03/11/style/Chanel-Louis-Vuitton-Balmain-fashion-shows.html",
+        "abstract": "Going through the looking glass with Dior, up in the mountains at Miu Miu and on an odyssey with Louis Vuitton.",
+        "content": "Almost exactly a year ago, the Louis Vuitton show, held in the courtyard of the Louvre, brought the curtain down on the runway circus as it once was.",
         "author": [
             "Vanessa Friedman"
         ]
@@ -27,7 +33,9 @@
     {
         "date": "03/11/2021, 10:00:15",
         "title": "Storytime Lets Fathers Form Bonds From Behind Bars",
-        "full_article": "https://www.nytimes.com/2021/03/11/parenting/bedtime-stories-prison.html",
+        "link": "https://www.nytimes.com/2021/03/11/parenting/bedtime-stories-prison.html",
+        "abstract": "Across the country, inmates are distance-reading bedtime stories to their kids and finding their own paths to redemption.",
+        "content": "Greg Williams, 45, doesn’t remember the first book he read to his daughters in 2006, but he remembers picking the shortest book in a stack, hoping he could get to the end without crying on camera. He imagined his girls in their pajamas, tucked into bed, listening. As he turned each page, he imagined that he was there, too.",
         "author": [
             "Ludwig Hurtado"
         ]
@@ -35,7 +43,9 @@
     {
         "date": "03/12/2021, 02:18:03",
         "title": "Biden condemns ‘vicious’ hate crimes against Asian-Americans.",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/biden-asian-americans-hate-crimes.html",
+        "link": "https://www.nytimes.com/2021/03/11/us/biden-asian-americans-hate-crimes.html",
+        "abstract": "“It’s wrong,” President Biden said. “It’s un-American, and it must stop.”",
+        "content": "President Biden on Thursday evening condemned “vicious” hate crimes against Asian-Americans, who he said have been “attacked, harassed, blamed and scapegoated” during the coronavirus pandemic.",
         "author": [
             "Madeleine Ngo"
         ]
@@ -43,7 +53,9 @@
     {
         "date": "03/11/2021, 14:00:03",
         "title": "My Brother Hasn’t Buried Our Mother’s Ashes Yet, and I’m Mad",
-        "full_article": "https://www.nytimes.com/2021/03/11/style/my-brother-hasnt-buried-our-mothers-ashes-yet-and-im-mad.html",
+        "link": "https://www.nytimes.com/2021/03/11/style/my-brother-hasnt-buried-our-mothers-ashes-yet-and-im-mad.html",
+        "abstract": "He works full time and is also managing her estate, but is that really an excuse?",
+        "content": "My mother died in June and was cremated, as provided in her will. For practical reasons, my brother took possession of her ashes. Now it’s March, and he hasn’t done a single thing about burying her ashes beside my father’s, as she requested. When I reminded him, he got defensive and changed the subject.",
         "author": [
             "Philip Galanes"
         ]
@@ -51,19 +63,17 @@
     {
         "date": "03/11/2021, 14:00:09",
         "title": "The T List: Five Things We Recommend This Week",
-        "full_article": "https://www.nytimes.com/2021/03/11/t-magazine/yuri-shimojo-mister-juis.html",
-        "author": [
-            "Michaela Trimble",
-            "Lauren Mechling",
-            "Coralie Kraft",
-            "Kurt Soller",
-            "Rima Suqi"
-        ]
+        "link": "https://www.nytimes.com/2021/03/11/t-magazine/yuri-shimojo-mister-juis.html",
+        "abstract": "Jewelry carved from bone, a cookbook from a beloved restaurant — and more.",
+        "content": "Welcome to the T List, a newsletter from the editors of T Magazine. Each week, we’re sharing things we’re eating, wearing, listening to or coveting now. Sign up here to find us in your inbox every Wednesday. And you can always reach us at tlist@nytimes.com.",
+        "author": []
     },
     {
         "date": "03/12/2021, 19:55:27",
         "title": "Michigan broadens vaccine access to include everyone 16 and older as of April 5.",
-        "full_article": "https://www.nytimes.com/2021/03/12/world/michigan-vaccine-age-eligibility.html",
+        "link": "https://www.nytimes.com/2021/03/12/world/michigan-vaccine-age-eligibility.html",
+        "abstract": "Gov. Gretchen Whitmer announced the changes a day after President Biden called for eligibility for all adults by May 1.",
+        "content": "Michigan will expand vaccine eligibility to everyone 50 and older as of March 22, and to everyone 16 and older as of April 5, Gov. Gretchen Whitmer said on Friday. The announcement came a day after President Biden’s prime-time address, in which he directed states to expand eligibility to all adults by May 1.",
         "author": [
             "Campbell Robertson"
         ]
@@ -71,7 +81,9 @@
     {
         "date": "03/11/2021, 14:08:23",
         "title": "I.O.C. Will Buy Coronavirus Vaccines From China for Olympians",
-        "full_article": "https://www.nytimes.com/2021/03/11/sports/olympics/ioc-vaccines-china-thomas-bach.html",
+        "link": "https://www.nytimes.com/2021/03/11/sports/olympics/ioc-vaccines-china-thomas-bach.html",
+        "abstract": "The agreement with a powerful Olympic partner may help reassure a skeptical Japanese population fearful of thousands of visitors to this summer’s Games.",
+        "content": "In what amounts to a public relations coup for China and a solution to a problem for the International Olympic Committee, the I.O.C. president, Thomas Bach, announced on Thursday that China had agreed to provide coronavirus vaccines for any participant requiring one ahead of this summer’s Tokyo Olympics and next year’s Beijing Winter Games.",
         "author": [
             "Tariq Panja"
         ]
@@ -79,7 +91,9 @@
     {
         "date": "03/11/2021, 16:04:33",
         "title": "The America’s Cup Is Now an Action Movie",
-        "full_article": "https://www.nytimes.com/2021/03/11/sports/sailing/americas-cup-helicopter.html",
+        "link": "https://www.nytimes.com/2021/03/11/sports/sailing/americas-cup-helicopter.html",
+        "abstract": "High-tech racing boats and low-flying helicopters bring close-quarters drama to sailing’s biggest races. But staying out of the way is harder than it looks.",
+        "content": "AUCKLAND, New Zealand — The main attraction for spectators and television viewers at the America’s Cup will always be the AC75s, the sleek racing yachts that can fly above the water on hydrofoils at speeds as high as 60 miles an hour.",
         "author": [
             "Serena Solomon"
         ]
@@ -87,7 +101,9 @@
     {
         "date": "03/12/2021, 17:44:29",
         "title": "In Favor of a More Casual, More Forgiving Polenta",
-        "full_article": "https://www.nytimes.com/2021/03/12/dining/polenta-recipe-ottolenghi.html",
+        "link": "https://www.nytimes.com/2021/03/12/dining/polenta-recipe-ottolenghi.html",
+        "abstract": "Well into the pandemic, Yotam Ottolenghi has allowed himself to relax in the kitchen. This comforting dish shows how good a thing that can be.",
+        "content": "LONDON — “We are all in this together” has been said a lot in the past year.",
         "author": [
             "Yotam Ottolenghi"
         ]
@@ -95,7 +111,9 @@
     {
         "date": "03/11/2021, 10:00:30",
         "title": "Why $4-a-Gallon Gas May Be Coming Your Way This Summer",
-        "full_article": "https://www.nytimes.com/2021/03/11/business/energy-environment/oil-prices-opec-shale.html",
+        "link": "https://www.nytimes.com/2021/03/11/business/energy-environment/oil-prices-opec-shale.html",
+        "abstract": "The oil industry, known for boom-bust cycles, is resisting the temptation to pump more oil — for now.",
+        "content": "HOUSTON — Even as oil and gasoline prices rise, industry executives are resisting their usual impulse to pump more oil out of the ground, which could keep energy prices moving up as the economy recovers.",
         "author": [
             "Clifford Krauss"
         ]
@@ -103,7 +121,9 @@
     {
         "date": "03/11/2021, 00:36:15",
         "title": "N.H.L. Returns to ESPN in a 7-Year Deal With an Emphasis on Streaming",
-        "full_article": "https://www.nytimes.com/2021/03/10/sports/hockey/hockey-nhl-espn-disney.html",
+        "link": "https://www.nytimes.com/2021/03/10/sports/hockey/hockey-nhl-espn-disney.html",
+        "abstract": "The agreement assures hockey a higher profile on SportsCenter and gives ESPN the perfect sport for its streaming ambitions",
+        "content": "After an absence of 16 years, the National Hockey League is returning to ESPN.",
         "author": [
             "Kevin Draper"
         ]
@@ -111,7 +131,9 @@
     {
         "date": "03/12/2021, 16:30:06",
         "title": "Don’t Reject the Champions League’s Changes Out of Hand",
-        "full_article": "https://www.nytimes.com/2021/03/12/sports/soccer/champions-league-reform-juventus.html",
+        "link": "https://www.nytimes.com/2021/03/12/sports/soccer/champions-league-reform-juventus.html",
+        "abstract": "The latest proposals to reallocate European soccer’s riches show that there may be sense even in dumb ideas.",
+        "content": "Say what you like about Andrea Agnelli, but at least he is not afraid of a bad idea. Even by the standards of Agnelli, the Juventus chairman, this has been a fairly spectacular week, a seemingly never-ending stream of free-form thoughts about the future of soccer, each one somehow worse than the last.",
         "author": [
             "Rory Smith"
         ]
@@ -119,7 +141,9 @@
     {
         "date": "03/12/2021, 02:38:40",
         "title": "Biden Tells Nation There Is Hope After a Devastating Year",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/politics/biden-coronavirus.html",
+        "link": "https://www.nytimes.com/2021/03/11/us/politics/biden-coronavirus.html",
+        "abstract": "In his first prime-time address from the White House, the president said that he would order states to make all adults eligible for the vaccine by May 1 and that a return to normalcy was possible by July 4.",
+        "content": "WASHINGTON — Seeking to comfort Americans bound together by a year of suffering but also by “hope and the possibilities,” President Biden made a case to the nation Thursday night that it could soon put the worst of the pandemic behind it and promised that all adults would be eligible for the vaccine by May 1.",
         "author": [
             "Katie Rogers"
         ]
@@ -127,7 +151,9 @@
     {
         "date": "03/11/2021, 10:20:49",
         "title": "Mexico’s Unspoiled East Cape Is Nothing Like Cabo",
-        "full_article": "https://www.nytimes.com/2021/03/11/realestate/mexicos-unspoiled-east-cape-is-nothing-like-cabo.html",
+        "link": "https://www.nytimes.com/2021/03/11/realestate/mexicos-unspoiled-east-cape-is-nothing-like-cabo.html",
+        "abstract": "The roads are rough, and some areas lack electricity, but the calm, swimmable waters of the Sea of Cortez are enticing to buyers and developers.",
+        "content": "Los Cabos, in the Mexican state of Baja California Sur, is no stranger to tourism and development. The Corridor, the highway connecting the city of Cabo San Lucas to the artsy town of San José del Cabo, is packed with hotels and condos, along with construction sites where more are being built.",
         "author": [
             "Shivani Vora"
         ]
@@ -135,7 +161,9 @@
     {
         "date": "03/11/2021, 22:08:47",
         "title": "Georgetown Law Fires Professor for ‘Abhorrent’ Remarks About Black Students",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/georgetown-university-sandra-sellers.html",
+        "link": "https://www.nytimes.com/2021/03/11/us/georgetown-university-sandra-sellers.html",
+        "abstract": "The law school said Sandra A. Sellers, an adjunct professor, had been terminated, and David C. Batson, another adjunct, said he had resigned.",
+        "content": "Georgetown University Law Center said on Thursday that it had fired an adjunct professor who made “abhorrent” remarks about Black students on a video call, and another adjunct who was on the call with her resigned on Friday.",
         "author": [
             "Michael Levenson"
         ]
@@ -143,7 +171,9 @@
     {
         "date": "03/11/2021, 16:32:26",
         "title": "A Rundown School for Palestinian Children Awaits U.S. Aid",
-        "full_article": "https://www.nytimes.com/2021/03/11/world/middleeast/palestinians-biden-us-aid.html",
+        "link": "https://www.nytimes.com/2021/03/11/world/middleeast/palestinians-biden-us-aid.html",
+        "abstract": "Residents worry that the Biden administration won’t restore critical funding for the renovation of the West Bank school.",
+        "content": "JABA, West Bank — When Joe Biden was elected president, residents of the tiny hilltop village of Jaba in the occupied West Bank cheered.",
         "author": [
             "Adam Rasgon"
         ]
@@ -151,7 +181,9 @@
     {
         "date": "03/12/2021, 21:15:04",
         "title": "What to Do This Weekend",
-        "full_article": "https://www.nytimes.com/2021/03/12/at-home/newsletter.html",
+        "link": "https://www.nytimes.com/2021/03/12/at-home/newsletter.html",
+        "abstract": "Saving daylight and dreaming of travel.",
+        "content": "Want to get the At Home newsletter in your inbox? Sign up here.",
         "author": [
             "Melissa Kirsch"
         ]
@@ -159,7 +191,9 @@
     {
         "date": "03/11/2021, 18:25:51",
         "title": "The embattled head of the federal student aid office has resigned.",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/mark-brown-student-aid-devos.html",
+        "link": "https://www.nytimes.com/2021/03/11/us/mark-brown-student-aid-devos.html",
+        "abstract": "Mark Brown was appointed by Betsy DeVos, the former education secretary, to be the head of the Office of Federal Student Aid.",
+        "content": "From almost the day he was tapped to head the Office of Federal Student Aid under the Trump administration, Mark A. Brown was a target of consumer and labor groups aligned with the progressive wing of the Democratic Party. This week, they cheered his resignation.",
         "author": [
             "Anemona Hartocollis"
         ]
@@ -167,7 +201,9 @@
     {
         "date": "03/11/2021, 16:40:16",
         "title": "She Was Buried With a Silver Crown. Was She the One Who Held Power?",
-        "full_article": "https://www.nytimes.com/2021/03/11/science/bronze-age-tomb-women.html",
+        "link": "https://www.nytimes.com/2021/03/11/science/bronze-age-tomb-women.html",
+        "abstract": "A tomb unearthed in Spain has prompted archaeologists to reconsider assumptions about women’s power in Bronze Age European societies.",
+        "content": "About 3,700 years ago, a man and a woman were buried together in the southeast of the Iberian Peninsula. Their tomb was an ovoid jar beneath the floor of a grand hall in an expansive hilltop complex known as La Almoloya, in what is now Murcia, Spain. It’s one of many archaeological sites associated with the El Argar culture of the Early Bronze Age that controlled an area about the size of Belgium from 2200 B.C. to 1500 B.C.",
         "author": [
             "Jennifer Pinkowski"
         ]
@@ -175,7 +211,9 @@
     {
         "date": "03/12/2021, 23:05:49",
         "title": "What to Know About Kathy Hochul, Cuomo’s Possible Successor",
-        "full_article": "https://www.nytimes.com/2021/03/12/nyregion/who-is-kathy-hochul.html",
+        "link": "https://www.nytimes.com/2021/03/12/nyregion/who-is-kathy-hochul.html",
+        "abstract": "Ms. Hochul, who has served as New York’s lieutenant governor since 2015, would become the first female governor in the state’s history if Gov. Andrew Cuomo resigned or was removed from office.",
+        "content": "BUFFALO — As Gov. Andrew M. Cuomo confronts the greatest political crisis of his career, amid multiple accusations of sexual harassment and growing demands for his resignation, New Yorkers are growing more curious about Lt. Gov. Kathy Hochul, who would replace him if he were no longer in office.",
         "author": [
             "Katie Glueck"
         ]
@@ -183,22 +221,28 @@
     {
         "date": "03/11/2021, 14:00:16",
         "title": "Homes for Sale in New York and Connecticut",
-        "full_article": "https://www.nytimes.com/2021/03/11/realestate/housing-market-near-nyc.html",
+        "link": "https://www.nytimes.com/2021/03/11/realestate/housing-market-near-nyc.html",
+        "abstract": "This week’s properties are four-bedroom homes in Lloyd Harbor, N.Y., and Darien, Conn.",
+        "content": "Click on the slide show to see this week’s featured properties:",
         "author": [
-            "Claudia Gryvatz Copquin",
+            "Claudia Copquin",
             "Lisa Prevost"
         ]
     },
     {
         "date": "03/11/2021, 08:01:04",
         "title": "Unafraid but Cautious: Climbers Return to Everest After COVID-19 Closure",
-        "full_article": "https://www.nytimes.com/reuters/2021/03/11/world/asia/11reuters-nepal-everest.html",
+        "link": "https://www.nytimes.com/reuters/2021/03/11/world/asia/11reuters-nepal-everest.html",
+        "abstract": "    Hundreds of climbers are set to return to Mount Everest for the first time next month under strict conditions, government officials and mountaineers said, as the world's tallest peak reopens after a year closed due to the coronavirus pandemic.",
+        "content": "KATHMANDU — Hundreds of climbers are set to return to Mount Everest for the first time next month under strict conditions, government officials and mountaineers said, as the world's tallest peak reopens after a year closed due to the coronavirus pandemic.",
         "author": []
     },
     {
         "date": "03/11/2021, 22:44:39",
         "title": "What Are NFTs, Anyway? One Just Sold for $69 Million.",
-        "full_article": "https://www.nytimes.com/2021/03/11/arts/design/what-is-an-nft.html",
+        "link": "https://www.nytimes.com/2021/03/11/arts/design/what-is-an-nft.html",
+        "abstract": "“Nonfungible tokens” and blockchain technology are taking the mainstream art world by storm, fetching huge prices. We explain, or try to.",
+        "content": "The artist Mike Winkelmann, also known as Beeple, has just sold an NFT at a record-breaking $69.3 million, the third-highest price achieved by a living artist. The sale, at Christie’s, for the purely digital work was the strongest indication yet that NFTs, or “nonfungible tokens,” have taken the art market by storm, making the leap from specialist websites to premier auction houses. Beeple, a newcomer to the fine-art world who first heard about NFTs five months ago, is the most high-profile artist to profit off the huge boom in sales of these much hyped but poorly understood commodities.",
         "author": [
             "Josie Thaddeus-Johns"
         ]
@@ -206,15 +250,19 @@
     {
         "date": "03/12/2021, 12:23:43",
         "title": "New Adversary Looms for Trump as Vance Exits Manhattan D.A. Race",
-        "full_article": "https://www.nytimes.com/2021/03/12/nyregion/cyrus-vance-district-attorney-manhattan.html",
+        "link": "https://www.nytimes.com/2021/03/12/nyregion/cyrus-vance-district-attorney-manhattan.html",
+        "abstract": "The decision by Cyrus R. Vance Jr., the district attorney since 2010, sets off a scramble for the office and makes it likely a new prosecutor will inherit an investigation into the former president’s business.",
+        "content": "Cyrus R. Vance Jr., the Manhattan district attorney, announced on Friday he would not run for re-election, setting off a wide-open race to lead one of the most important crime-fighting offices in the country and making it highly likely that any potential case against President Donald J. Trump will be left in a newcomer’s hands.",
         "author": [
-            "Jonah E. Bromwich"
+            "Jonah Bromwich"
         ]
     },
     {
         "date": "03/11/2021, 14:22:51",
         "title": "In UConn, the ‘New Big East’ Has Welcomed an Old Power",
-        "full_article": "https://www.nytimes.com/2021/03/11/sports/ncaabasketball/big-east-uconn.html",
+        "link": "https://www.nytimes.com/2021/03/11/sports/ncaabasketball/big-east-uconn.html",
+        "abstract": "The Huskies were expected to make the N.C.A.A. tournament entering the Big East men’s basketball tournament, their first in nine years.",
+        "content": "When R.J. Cole transferred from Howard to UConn after his sophomore season, he sought to test himself against better competition, move closer to his family and compete on a bigger stage in the Big East Conference.",
         "author": [
             "Adam Zagoria"
         ]
@@ -222,7 +270,9 @@
     {
         "date": "03/12/2021, 10:00:18",
         "title": "How a Rockaways Pizza Chef Spends Her Sundays",
-        "full_article": "https://www.nytimes.com/2021/03/12/nyregion/last-dragon-pizza-nicole-russell.html",
+        "link": "https://www.nytimes.com/2021/03/12/nyregion/last-dragon-pizza-nicole-russell.html",
+        "abstract": "Nicole Russell makes all sorts of pies — with toppings ranging from tandoori to jerk chicken — in her home kitchen.",
+        "content": "In 2012, after Hurricane Sandy devastated much of the Rockaways in Queens, Nicole Russell, a longtime resident of Arverne by the Sea, a community there, began making pizzas out of her home. She did this in part to please her sister, Joan, a pizza lover who had recently learned she had cancer.",
         "author": [
             "Andrew Cotto"
         ]
@@ -230,9 +280,11 @@
     {
         "date": "03/12/2021, 15:26:34",
         "title": "Economic Road Rage",
-        "full_article": "https://www.nytimes.com/2021/03/12/business/dealbook/federal-reserve-inequality.html",
+        "link": "https://www.nytimes.com/2021/03/12/business/dealbook/federal-reserve-inequality.html",
+        "abstract": "The Fed, the markets and growing inequality.",
+        "content": "As stock markets set new highs, Karen Petrou is mad about monetary policy. Ms. Petrou, co-founder and managing partner of Federal Financial Analytics, a Washington-based consultancy, got so angry that she wrote a book about it, “Engine of Inequality: The Fed and the Future of Wealth in America.” In it, she draws a direct connection between the Federal Reserve’s decisions and the rich getting richer, with others struggling to get by.",
         "author": [
-            "Andrew Ross Sorkin",
+            "Andrew Sorkin",
             "Jason Karaian",
             "Lauren Hirsch",
             "Ephrat Livni"
@@ -241,7 +293,9 @@
     {
         "date": "03/12/2021, 10:00:16",
         "title": "It May Be Time to Start Worrying About the Estate Tax",
-        "full_article": "https://www.nytimes.com/2021/03/12/business/estate-tax.html",
+        "link": "https://www.nytimes.com/2021/03/12/business/estate-tax.html",
+        "abstract": "Most people have been able to pass on assets like a family home without federal tax, but that could be changing.",
+        "content": "Under current rules, the federal estate tax won’t ever affect you unless you’re quite wealthy. But that could change rapidly, even if you are far from rich.",
         "author": [
             "Paul Sullivan"
         ]
@@ -249,7 +303,9 @@
     {
         "date": "03/11/2021, 11:00:08",
         "title": "A Legendary Designer Strikes Out on His Own to Redesign Legends",
-        "full_article": "https://www.nytimes.com/2021/03/11/business/ian-callum-jaguar-design.html",
+        "link": "https://www.nytimes.com/2021/03/11/business/ian-callum-jaguar-design.html",
+        "abstract": "For two decades, Ian Callum led the look at Jaguar Land Rover. Now he’s reimagining some vintage cars, including the Jag Mark 2 and a classic Corvette.",
+        "content": "Ian Callum, the noted automotive designer, has started a new company, simply named Callum Design. It could just as easily be called Unfinished Business.",
         "author": [
             "Jerry Garrett"
         ]
@@ -257,7 +313,9 @@
     {
         "date": "03/11/2021, 20:23:55",
         "title": "For a second St. Patrick’s Day without parades, some places find other ways to celebrate.",
-        "full_article": "https://www.nytimes.com/2021/03/11/world/st-patricks-day-parade.html",
+        "link": "https://www.nytimes.com/2021/03/11/world/st-patricks-day-parade.html",
+        "abstract": "Some events are relocating to the water, some are being postponed, and others are now taking place in cars.",
+        "content": "The pandemic in the United States, now more than a year old, is starting to hit some calendar milestones for a second time, including St. Patrick’s Day parades across the country. The sudden cancellation of the parades last year was one of the first big signs of how disruptive the pandemic would be to normal life in the U.S.",
         "author": [
             "Campbell Robertson"
         ]
@@ -265,7 +323,9 @@
     {
         "date": "03/11/2021, 16:13:33",
         "title": "Hollywood Loses $10 Billion a Year Due to Lack of Diversity, Study Finds",
-        "full_article": "https://www.nytimes.com/2021/03/11/movies/hollywood-black-representation.html",
+        "link": "https://www.nytimes.com/2021/03/11/movies/hollywood-black-representation.html",
+        "abstract": "A McKinsey report that combined previous research and new interviews argues that concrete steps like company bonuses tied to improved representation can lead to change.",
+        "content": "By ignoring the systemic racial inequities that plague the film and television business, Hollywood is leaving $10 billion annually on the table. That is one of the main findings in a new report from the management consulting firm McKinsey & Company, which for the first time turned its attention to the lack of Black representation in Hollywood. And, unlike many other studies that do excellent jobs of pointing out problems without giving concrete solutions, this one includes a series of steps that could help change the makeup of the industry.",
         "author": [
             "Nicole Sperling"
         ]
@@ -273,16 +333,20 @@
     {
         "date": "03/12/2021, 07:46:59",
         "title": "Hungary pays big for a Chinese vaccine.",
-        "full_article": "https://www.nytimes.com/2021/03/11/world/hungary-sinopharm-covid.html",
+        "link": "https://www.nytimes.com/2021/03/11/world/hungary-sinopharm-covid.html",
+        "abstract": "The European nation has agreed to pay $36 per dose of the Sinopharm vaccine, according to contracts put online by a Hungarian official.",
+        "content": "Hungary has agreed to pay about $36 a dose for the Covid-19 vaccine made by Sinopharm, a Chinese state-owned company, according to contracts made public by a senior Hungarian official on Thursday. That appears to make the Sinopharm shot among the most expensive in the world.",
         "author": [
-            "Sui-Lee Wee",
+            "Sui-lee Wee",
             "Benjamin Novak"
         ]
     },
     {
         "date": "03/12/2021, 12:29:42",
         "title": "‘A Midsummer Night’s Dream,’ Sprinkled With High-Tech Fairy Dust",
-        "full_article": "https://www.nytimes.com/2021/03/12/theater/dream-royal-shakespeare-company-motion-capture.html",
+        "link": "https://www.nytimes.com/2021/03/12/theater/dream-royal-shakespeare-company-motion-capture.html",
+        "abstract": "A new online production from the Royal Shakespeare Company uses motion-capture and video game technology to create a virtual world.",
+        "content": "“A Midsummer Night’s Dream” may be one of Shakespeare’s most performed plays — but its latest version from the Royal Shakespeare Company will be unlike any seen before. Titled “Dream,” the 50-minute streamed production fuses live performance with motion-capture technology, 3-D graphics, and interactive gaming techniques that let the audience remotely guide Puck through a virtual forest.",
         "author": [
             "Holly Williams"
         ]
@@ -290,7 +354,9 @@
     {
         "date": "03/12/2021, 09:00:02",
         "title": "Lesson of the Day: ‘How Some States Are Moving to Restrict Transgender Women in Sports’",
-        "full_article": "https://www.nytimes.com/2021/03/12/learning/lesson-of-the-day-how-some-states-are-moving-to-restrict-transgender-women-in-sports.html",
+        "link": "https://www.nytimes.com/2021/03/12/learning/lesson-of-the-day-how-some-states-are-moving-to-restrict-transgender-women-in-sports.html",
+        "abstract": "In this lesson, students will learn about a wave of legislation that seeks to prevent transgender women and girls from competing in women’s sports — and about the student athletes who are fighting against it.",
+        "content": "Featured Article: “How Some States Are Moving to Restrict Transgender Women in Sports” by Gillian R. Brassil",
         "author": [
             "Nicole Daniels"
         ]
@@ -298,7 +364,9 @@
     {
         "date": "03/12/2021, 18:51:45",
         "title": "Jaime Herrera Beutler Is Undaunted",
-        "full_article": "https://www.nytimes.com/2021/03/12/us/politics/jaime-herrera-beutler.html",
+        "link": "https://www.nytimes.com/2021/03/12/us/politics/jaime-herrera-beutler.html",
+        "abstract": "After seeing her eldest child through a medical nightmare, the six-term Republican from Washington was not intimidated by the idea of breaking with her party to support Donald J. Trump’s impeachment.",
+        "content": "It was well past bedtime when Representative Jaime Herrera Beutler caused a stir during the first impeachment of President Donald J. Trump by bringing her 6-year-old daughter to the House floor to witness history and watch her mother vote “no.”",
         "author": [
             "Jessica Grose"
         ]
@@ -306,7 +374,9 @@
     {
         "date": "03/12/2021, 02:44:04",
         "title": "Here’s a fact-check of Biden’s first prime-time White House address.",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/biden-stimulus-speech-fact-check.html",
+        "link": "https://www.nytimes.com/2021/03/11/us/biden-stimulus-speech-fact-check.html",
+        "abstract": "President Biden, in a prime-time address on Thursday night, exaggerated elements of the coronavirus pandemic along with his, and his predecessor’s, response to it.",
+        "content": "President Biden, in a prime-time address on Thursday night, exaggerated elements of the coronavirus pandemic along with his, and his predecessor’s, response to it. Here’s a fact-check.",
         "author": [
             "Linda Qiu"
         ]
@@ -314,15 +384,17 @@
     {
         "date": "03/11/2021, 20:26:40",
         "title": "Film Club: ‘Covid-19 Devastated Many Communities. But Not Cherokee Nation.’",
-        "full_article": "https://www.nytimes.com/2021/03/11/learning/film-club-covid-19-devastated-many-communities-but-not-cherokee-nation.html",
-        "author": [
-            "The Learning Network"
-        ]
+        "link": "https://www.nytimes.com/2021/03/11/learning/film-club-covid-19-devastated-many-communities-but-not-cherokee-nation.html",
+        "abstract": "What can we learn from how Cherokee Nation has handled the coronavirus pandemic?",
+        "content": "",
+        "author": []
     },
     {
         "date": "03/11/2021, 10:00:14",
         "title": "We Asked Teens What Life Was Like in a Pandemic. They Had a Lot to Say.",
-        "full_article": "https://www.nytimes.com/2021/03/11/insider/coming-of-age-section.html",
+        "link": "https://www.nytimes.com/2021/03/11/insider/coming-of-age-section.html",
+        "abstract": "The Learning Network has been giving students a voice since 1998. But when the coronavirus hit, the team knew they had to do more.",
+        "content": "Times Insider explains who we are and what we do, and delivers behind-the-scenes insights into how our journalism comes together.",
         "author": [
             "Katherine Schulten"
         ]
@@ -330,7 +402,9 @@
     {
         "date": "03/11/2021, 18:22:58",
         "title": "Jeffrey Epstein’s Manhattan mansion fetches $51 million after a judge denies a request to freeze the sale.",
-        "full_article": "https://www.nytimes.com/2021/03/11/business/jeffrey-epstein-manhattan-mansion-sold.html",
+        "link": "https://www.nytimes.com/2021/03/11/business/jeffrey-epstein-manhattan-mansion-sold.html",
+        "abstract": "A deed for the sale has yet to be recorded, but one of the estate’s lawyers said that funds from the sale were being transferred to a compensation program for Mr. Epstein’s victims.",
+        "content": "Jeffrey Epstein’s Manhattan mansion has been sold to an unidentified buyer for about $51 million, which will go to a fund providing restitution for the disgraced financier’s sexual abuse victims.",
         "author": [
             "Matthew Goldstein"
         ]
@@ -338,22 +412,27 @@
     {
         "date": "03/11/2021, 11:00:04",
         "title": "Diana and Meghan",
-        "full_article": "https://www.nytimes.com/2021/03/11/podcasts/the-daily/meghan-harry-royal-family-oprah-interview.html",
+        "link": "https://www.nytimes.com/2021/03/11/podcasts/the-daily/meghan-harry-royal-family-oprah-interview.html",
+        "abstract": "In explosive interviews separated by 25 years, the two women forced the royal family to confront the truth about itself.",
+        "content": "This episode contains references to suicide, self-harm and eating disorders.",
         "author": []
     },
     {
         "date": "03/12/2021, 17:55:46",
         "title": "For Some Women, Working for Cuomo Is the ‘Worst Place to Be’",
-        "full_article": "https://www.nytimes.com/2021/03/12/nyregion/cuomo-women-toxic-workplace.html",
+        "link": "https://www.nytimes.com/2021/03/12/nyregion/cuomo-women-toxic-workplace.html",
+        "abstract": "Dozens of current and former employees of Gov. Andrew M. Cuomo’s executive chamber described the office as chaotic, unprofessional and toxic, especially for young women.",
+        "content": "In the office of Gov. Andrew M. Cuomo, there are usually two annual holiday parties: one, near the New York State Capitol, for all executive employees, and another, at the Governor’s Mansion.",
         "author": [
-            "Brian M. Rosenthal",
-            "Luis Ferré-Sadurní"
+            "Brian None"
         ]
     },
     {
         "date": "03/12/2021, 10:00:20",
         "title": "How a British Gardening Show Got People Through the Pandemic",
-        "full_article": "https://www.nytimes.com/2021/03/12/realestate/gardening-monty-don-pandemic.html",
+        "link": "https://www.nytimes.com/2021/03/12/realestate/gardening-monty-don-pandemic.html",
+        "abstract": "“Gardeners’ World” and its star Monty Don have been a balm for frayed nerves.",
+        "content": "The television show “Gardeners’ World” is an institution in Britain, where it has aired for coming up on 54 seasons, having premiered way back in 1968. It broadcasts on Friday nights, welcomed by viewers as a gentle usher into the weekend.",
         "author": [
             "Steven Kurutz"
         ]
@@ -361,7 +440,9 @@
     {
         "date": "03/11/2021, 19:34:23",
         "title": "A Volleyball Player Lost Her Job Over a Pregnancy. Now She’s Fighting Back.",
-        "full_article": "https://www.nytimes.com/2021/03/11/world/europe/pregnant-volleyball-player-sues.html",
+        "link": "https://www.nytimes.com/2021/03/11/world/europe/pregnant-volleyball-player-sues.html",
+        "abstract": "It is common for paid women athletes in Italy to be forced to leave after they get pregnant. Now one of them has ignited a debate that was a long time coming.",
+        "content": "ROME — When the Italian volleyball player Lara Lugli got pregnant, she knew she would lose her job.",
         "author": [
             "Emma Bubola",
             "Gaia Pianigiani"
@@ -370,7 +451,9 @@
     {
         "date": "03/11/2021, 13:22:52",
         "title": "Johnson & Johnson’s one-shot vaccine is approved by the European Union.",
-        "full_article": "https://www.nytimes.com/2021/03/11/world/eu-johnson-johnson-covid-vaccine.html",
+        "link": "https://www.nytimes.com/2021/03/11/world/eu-johnson-johnson-covid-vaccine.html",
+        "abstract": "The decision opens the way for the delivery of 200 million doses ti help speed vaccination efforts.",
+        "content": "The European Union authorized use of the Johnson & Johnson vaccine on Thursday, amid mounting frustration with a sluggish inoculation campaign that has been hobbled by supply shocks and logistics failures, and with global wars over scarce doses ratcheting up.",
         "author": [
             "Monika Pronczuk",
             "Matina Stevis-Gridneff"
@@ -379,7 +462,9 @@
     {
         "date": "03/12/2021, 00:15:52",
         "title": "Congressional Aides Unite to Push for Change at the Capitol After the Riot",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/congressional-aides-capitol-riot.html",
+        "link": "https://www.nytimes.com/2021/03/11/us/congressional-aides-capitol-riot.html",
+        "abstract": "Shaken by the assault on Jan. 6, about 1,000 congressional aides, mostly people of color, have joined forces to press for changes in their workplace. It is the closest they can get to a union.",
+        "content": "WASHINGTON — After the attack on the Capitol by a pro-Trump mob on Jan. 6, Herline Mathieu knew things had to change.",
         "author": [
             "Luke Broadwater"
         ]
@@ -387,7 +472,9 @@
     {
         "date": "03/11/2021, 13:15:07",
         "title": "A Small Town and a Spray of Bullets in Myanmar",
-        "full_article": "https://www.nytimes.com/2021/03/11/world/asia/myanmar-police-coup-killed-myaing.html",
+        "link": "https://www.nytimes.com/2021/03/11/world/asia/myanmar-police-coup-killed-myaing.html",
+        "abstract": "Police officers shot into a cluster of unarmed civilians in a tiny town on Thursday, killing at least eight people and injuring more than 20.",
+        "content": "Until Thursday, Myaing, a small town in central Myanmar, was best known for its production of thanaka, a bark that is ground for use as a cooling cosmetic.",
         "author": [
             "Hannah Beech"
         ]
@@ -395,7 +482,9 @@
     {
         "date": "03/12/2021, 23:03:27",
         "title": "The $69 Million Beeple NFT Was Bought With Cryptocurrency",
-        "full_article": "https://www.nytimes.com/2021/03/12/arts/beeple-nft-buyer-ether.html",
+        "link": "https://www.nytimes.com/2021/03/12/arts/beeple-nft-buyer-ether.html",
+        "abstract": "“I feel like I got a steal,” the buyer, who calls himself Metakovan, said in an interview about the “nonfungible token,” or NFT, he bought at an online auction.",
+        "content": "An artwork by Beeple which exists only as a digital file and was sold as a “nonfungible token” for a staggering $69.3 million at an online auction handled by Christie’s on Thursday was bought by an investor known only by a pseudonym and who paid for it with cryptocurrency, the auction house said Friday.",
         "author": [
             "Scott Reyburn"
         ]
@@ -403,415 +492,11 @@
     {
         "date": "03/11/2021, 20:22:50",
         "title": "Bliss and Anger in Balance: The Art of Lorraine O’Grady",
-        "full_article": "https://www.nytimes.com/2021/03/11/arts/design/lorraine-ogrady-brooklyn-artist.html",
+        "link": "https://www.nytimes.com/2021/03/11/arts/design/lorraine-ogrady-brooklyn-artist.html",
+        "abstract": "A survey at the Brooklyn Museum radiates high outrage even as it finds beauty and strength in a range of identities.",
+        "content": "Back in the 1960s, some of us were taking drugs, scrambling genders, and sampling global religions to shake ourselves loose from what we saw as Western-style binary thinking, a view of the world based on strictly held good-bad, right-wrong opposites: white versus Black, straight versus gay, us versus them. Five decades later, such thinking still rules in a red-blue nation, which makes the retrospective of Lorraine O’Grady’s career at the Brooklyn Museum a major corrective event.",
         "author": [
             "Holland Cotter"
-        ]
-    },
-    {
-        "date": "03/11/2021, 22:06:44",
-        "title": "The Pentagon condemns Tucker Carlson’s sexist remarks about women in the military.",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/tucker-carlson-women-military-pentagon.html",
-        "author": [
-            "John Ismay"
-        ]
-    },
-    {
-        "date": "03/11/2021, 03:00:04",
-        "title": "Scramble",
-        "full_article": "https://www.nytimes.com/2021/03/10/crosswords/daily-puzzle-2021-03-11.html",
-        "author": [
-            "Isaac Aronow"
-        ]
-    },
-    {
-        "date": "03/11/2021, 19:01:53",
-        "title": "Garrett Bradley Reminds Us That Black Joy Always Existed",
-        "full_article": "https://www.nytimes.com/2021/03/11/arts/design/garrett-bradley-moma.html",
-        "author": [
-            "Roberta Smith"
-        ]
-    },
-    {
-        "date": "03/11/2021, 10:00:33",
-        "title": "A Village Erased",
-        "full_article": "https://www.nytimes.com/2021/03/11/world/asia/japan-fukushima-kesen.html",
-        "author": [
-            "Hiroko Masuike",
-            "Russell Goldman"
-        ]
-    },
-    {
-        "date": "03/11/2021, 07:00:02",
-        "title": "Word of the Day: acquiesce",
-        "full_article": "https://www.nytimes.com/2021/03/11/learning/word-of-the-day-acquiesce.html",
-        "author": [
-            "The Learning Network"
-        ]
-    },
-    {
-        "date": "03/12/2021, 20:11:06",
-        "title": "Countries Tried to Curb Trade in Plastic Waste. The U.S. Is Shipping More.",
-        "full_article": "https://www.nytimes.com/2021/03/12/climate/plastics-waste-export-ban.html",
-        "author": [
-            "Hiroko Tabuchi",
-            "Michael Corkery"
-        ]
-    },
-    {
-        "date": "03/11/2021, 14:36:30",
-        "title": "The Freedom of Natural Curls: Egypt’s Quiet Rebellion",
-        "full_article": "https://www.nytimes.com/2021/03/11/world/middleeast/egypt-hair-curls-natural.html",
-        "author": [
-            "Vivian Yee"
-        ]
-    },
-    {
-        "date": "03/12/2021, 17:57:39",
-        "title": "British Cycling Doctor Ordered Drug in Doping Case, Panel Finds",
-        "full_article": "https://www.nytimes.com/2021/03/12/sports/cycling/cycling-freeman-team-sky-doping.html",
-        "author": [
-            "Juliet Macur"
-        ]
-    },
-    {
-        "date": "03/12/2021, 11:20:36",
-        "title": "The Image and the Intrigue: Covering the Royal Family",
-        "full_article": "https://www.nytimes.com/2021/03/12/insider/reporting-royal-family.html",
-        "author": [
-            "Katie Van Syckle"
-        ]
-    },
-    {
-        "date": "03/11/2021, 19:31:29",
-        "title": "Relief Bill Gives Airline and Airport Workers a Reprieve, for Now",
-        "full_article": "https://www.nytimes.com/2021/03/11/business/stimulus-bill-airline-jobs.html",
-        "author": [
-            "Niraj Chokshi"
-        ]
-    },
-    {
-        "date": "03/12/2021, 19:03:31",
-        "title": "A survey of Republicans shows 5 factions have emerged after Trump’s presidency.",
-        "full_article": "https://www.nytimes.com/2021/03/12/us/politics/republican-factions-.html",
-        "author": [
-            "Maggie Haberman"
-        ]
-    },
-    {
-        "date": "03/12/2021, 23:26:22",
-        "title": "Former Bolivian Leader Is Arrested for Ouster of Morales",
-        "full_article": "https://www.nytimes.com/2021/03/12/world/americas/Bolivia-Anez-arrest-warrant.html",
-        "author": [
-            "Julie Turkewitz"
-        ]
-    },
-    {
-        "date": "03/12/2021, 13:00:10",
-        "title": "‘The Falcon and the Winter Soldier’ Is Marvel’s Latest Double Act",
-        "full_article": "https://www.nytimes.com/2021/03/12/arts/television/falcon-winter-soldier-disney.html",
-        "author": [
-            "Dave Itzkoff"
-        ]
-    },
-    {
-        "date": "03/12/2021, 00:37:05",
-        "title": "With Humor and Biblical Authority, Beth Moore Captivates Evangelical Women",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/beth-moore-evangelical-women.html",
-        "author": [
-            "Ruth Graham"
-        ]
-    },
-    {
-        "date": "03/12/2021, 14:00:06",
-        "title": "Romance Blossomed. A Home Garden Bloomed.",
-        "full_article": "https://www.nytimes.com/2021/03/12/style/romance-blossomed-a-home-garden-bloomed.html",
-        "author": [
-            "Gabe Cohn"
-        ]
-    },
-    {
-        "date": "03/11/2021, 10:00:15",
-        "title": "When Your West Wing Job Is Really, Really Far From the Oval Office",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/politics/remote-work-white-house.html",
-        "author": [
-            "Annie Karni"
-        ]
-    },
-    {
-        "date": "03/11/2021, 12:00:07",
-        "title": "Tony La Russa Came Back Because the ‘Opportunity Is Real’",
-        "full_article": "https://www.nytimes.com/2021/03/11/sports/baseball/tony-la-russa-white-sox.html",
-        "author": [
-            "Tyler Kepner"
-        ]
-    },
-    {
-        "date": "03/11/2021, 10:00:14",
-        "title": "He Was Caught Jaywalking. He Was Almost Deported for It.",
-        "full_article": "https://www.nytimes.com/2021/03/11/nyregion/daca-ice-nyc-immigration.html",
-        "author": [
-            "Annie Correal",
-            "Ed Shanahan"
-        ]
-    },
-    {
-        "date": "03/11/2021, 02:39:36",
-        "title": "Two whistle-blowers claim a Justice Department official improperly promoted an employee in the final days of Trump’s term.",
-        "full_article": "https://www.nytimes.com/2021/03/10/us/whistle-blowers-jeffrey-clark-trump.html",
-        "author": [
-            "Katie Benner"
-        ]
-    },
-    {
-        "date": "03/11/2021, 10:00:33",
-        "title": "Where Fitness Is the Job, Army Struggles to Be a Fair Boss With Female Troops",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/politics/army-fitness-women.html",
-        "author": [
-            "Jennifer Steinhauer"
-        ]
-    },
-    {
-        "date": "03/11/2021, 20:29:00",
-        "title": "Meyers Leonard Fined $50,000 and Suspended for Using an Anti-Semitic Slur",
-        "full_article": "https://www.nytimes.com/2021/03/11/sports/basketball/meyers-leonard-suspended.html",
-        "author": [
-            "Sopan Deb"
-        ]
-    },
-    {
-        "date": "03/12/2021, 00:49:43",
-        "title": "In Lady Bird Johnson’s Secret Diaries, a Despairing President and a Crucial Spouse",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/politics/lady-bird-johnson-diaries-lbj.html",
-        "author": [
-            "Peter Baker"
-        ]
-    },
-    {
-        "date": "03/12/2021, 19:00:58",
-        "title": "George Floyd’s Family Settles Suit Against Minneapolis for $27 Million",
-        "full_article": "https://www.nytimes.com/2021/03/12/us/george-floyd-minneapolis-settlement.html",
-        "author": [
-            "Nicholas Bogel-Burroughs",
-            "John Eligon"
-        ]
-    },
-    {
-        "date": "03/12/2021, 19:26:12",
-        "title": "‘You Can’t Bathe. You Can’t Wash.’ Water Crisis Hobbles Jackson, Miss., for Weeks",
-        "full_article": "https://www.nytimes.com/2021/03/12/us/jackson-mississippi-water-winter-storm.html",
-        "author": [
-            "Ellen Ann Fentress",
-            "Richard Fausset"
-        ]
-    },
-    {
-        "date": "03/11/2021, 10:00:18",
-        "title": "Companies That Rode Pandemic Boom Get a Reality Check",
-        "full_article": "https://www.nytimes.com/2021/03/11/technology/pandemic-boom-stocks.html",
-        "author": [
-            "Steve Lohr"
-        ]
-    },
-    {
-        "date": "03/11/2021, 12:23:05",
-        "title": "Prince William Calls Royals ‘Not a Racist Family’ After Meghan and Harry Interview",
-        "full_article": "https://www.nytimes.com/2021/03/11/world/europe/prince-william-royals-race-meghan-harry.html",
-        "author": [
-            "Isabella Kwai"
-        ]
-    },
-    {
-        "date": "03/11/2021, 10:00:09",
-        "title": "Nobody Wants Cancer. But a ‘Big C’ Label Has Surprising Upsides.",
-        "full_article": "https://www.nytimes.com/2021/03/11/well/live/cancer-blood.html",
-        "author": [
-            "Ruth Fein Revell"
-        ]
-    },
-    {
-        "date": "03/11/2021, 19:45:27",
-        "title": "Grammys Ready Pandemic Show, as the Weeknd Boycotts Future Awards​",
-        "full_article": "https://www.nytimes.com/2021/03/11/arts/music/grammys-the-weeknd-beyonce.html",
-        "author": [
-            "Ben Sisario"
-        ]
-    },
-    {
-        "date": "03/12/2021, 10:06:28",
-        "title": "China’s answer to Dr. Fauci wins hearts with candor and respect.",
-        "full_article": "https://www.nytimes.com/2021/03/12/world/chinas-answer-to-dr-fauci-wins-hearts-with-candor-and-respect.html",
-        "author": [
-            "Li Yuan"
-        ]
-    },
-    {
-        "date": "03/12/2021, 10:55:32",
-        "title": "Odessa, Part 2: Friday Night Lights",
-        "full_article": "https://www.nytimes.com/2021/03/12/podcasts/the-daily/football-season-reopening-texas-coronavirus.html",
-        "author": []
-    },
-    {
-        "date": "03/11/2021, 10:00:07",
-        "title": "Essential Oils May Be Wreaking Havoc on Your Skin",
-        "full_article": "https://www.nytimes.com/2021/03/11/style/self-care-essential-oils-may-be-wreaking-havoc-on-your-skin.html",
-        "author": [
-            "Jessica Schiffer"
-        ]
-    },
-    {
-        "date": "03/11/2021, 10:07:46",
-        "title": "A growing number of U.S. states are expanding vaccine eligibility.",
-        "full_article": "https://www.nytimes.com/2021/03/11/world/covid-vaccine-eligibility.html",
-        "author": [
-            "Bryan Pietsch"
-        ]
-    },
-    {
-        "date": "03/12/2021, 22:39:31",
-        "title": "The pace of U.S. vaccinations has been accelerating ahead of the date by which Biden wants all adults to be eligible.",
-        "full_article": "https://www.nytimes.com/2021/03/12/world/covid-vaccine-pace-adults-eligible.html",
-        "author": [
-            "Eileen Sullivan"
-        ]
-    },
-    {
-        "date": "03/11/2021, 02:21:47",
-        "title": "A G.O.P. senator tweets approvingly about part of the stimulus bill, without mentioning one detail: his ‘no’ vote.",
-        "full_article": "https://www.nytimes.com/2021/03/10/us/roger-wicker-tweet-stimulus.html",
-        "author": [
-            "Emily Cochrane",
-            "Thomas Kaplan"
-        ]
-    },
-    {
-        "date": "03/12/2021, 03:00:03",
-        "title": "First Pass Friday: How I Got Started",
-        "full_article": "https://www.nytimes.com/2021/03/11/crosswords/daily-puzzle-2021-03-12.html",
-        "author": [
-            "Deb Amlen"
-        ]
-    },
-    {
-        "date": "03/11/2021, 11:00:08",
-        "title": "A Postwar Mercedes, Still Overshadowed by Its Racing Cousins",
-        "full_article": "https://www.nytimes.com/2021/03/11/business/adenauer-mercedes-.html",
-        "author": [
-            "Brett Berk"
-        ]
-    },
-    {
-        "date": "03/12/2021, 15:00:32",
-        "title": "Colorado Braces for a Major Snowstorm This Weekend",
-        "full_article": "https://www.nytimes.com/2021/03/12/us/colorado-snowstorm-forecast.html",
-        "author": [
-            "Derrick Bryson Taylor"
-        ]
-    },
-    {
-        "date": "03/11/2021, 16:08:50",
-        "title": "Duke’s Exit From A.C.C. Tournament Is a Reminder of the Pandemic’s Threat",
-        "full_article": "https://www.nytimes.com/2021/03/11/sports/ncaabasketball/coronavirus-duke-acc-tournament.html",
-        "author": [
-            "Alan Blinder",
-            "Billy Witz"
-        ]
-    },
-    {
-        "date": "03/11/2021, 15:10:40",
-        "title": "Derek Chauvin will now face a third-degree murder charge.",
-        "full_article": "https://www.nytimes.com/2021/03/11/us/third-degree-murder-charge-derek-chauvin.html",
-        "author": [
-            "Nicholas Bogel-Burroughs"
-        ]
-    },
-    {
-        "date": "03/12/2021, 07:00:02",
-        "title": "Word of the Day: ilk",
-        "full_article": "https://www.nytimes.com/2021/03/12/learning/word-of-the-day-ilk.html",
-        "author": [
-            "The Learning Network"
-        ]
-    },
-    {
-        "date": "03/11/2021, 19:43:18",
-        "title": "How a Museum Show Honoring Breonna Taylor Is Trying to ‘Get It Right’",
-        "full_article": "https://www.nytimes.com/2021/03/11/arts/design/speed-museum-breonna-taylor-curator.html",
-        "author": [
-            "Siddhartha Mitter"
-        ]
-    },
-    {
-        "date": "03/12/2021, 08:00:02",
-        "title": "Drawing a Crowd",
-        "full_article": "https://www.nytimes.com/2021/03/12/learning/drawing-a-crowd.html",
-        "author": [
-            "The Learning Network"
-        ]
-    },
-    {
-        "date": "03/11/2021, 10:00:35",
-        "title": "He Went to 105 Shows in One Season. Now He Watches TV.",
-        "full_article": "https://www.nytimes.com/2021/03/11/theater/performing-arts-super-fan-lockdown.html",
-        "author": [
-            "Michael Paulson"
-        ]
-    },
-    {
-        "date": "03/11/2021, 16:54:19",
-        "title": "BAM’s 2021 Season Will Be Outdoors and Online",
-        "full_article": "https://www.nytimes.com/2021/03/11/arts/bam-2021-season.html",
-        "author": [
-            "Matt Stevens"
-        ]
-    },
-    {
-        "date": "03/12/2021, 14:00:06",
-        "title": "Teamwork and Chemistry Leads to Marriage",
-        "full_article": "https://www.nytimes.com/2021/03/12/style/teamwork-and-chemistry-leads-to-marriage.html",
-        "author": [
-            "Vincent M. Mallozzi"
-        ]
-    },
-    {
-        "date": "03/12/2021, 10:00:14",
-        "title": "For Gig Workers and Business Owners, Taxes Are Even Trickier Now",
-        "full_article": "https://www.nytimes.com/2021/03/12/business/smallbusiness/freelancers-taxes-2020.html",
-        "author": [
-            "Stacy Cowley"
-        ]
-    },
-    {
-        "date": "03/12/2021, 22:49:38",
-        "title": "Biden Takes First Tentative Steps to Address Global Vaccine Shortage",
-        "full_article": "https://www.nytimes.com/2021/03/12/us/politics/covid-19-vaccine-global-shortage.html",
-        "author": [
-            "Sheryl Gay Stolberg",
-            "Michael Crowley"
-        ]
-    },
-    {
-        "date": "03/11/2021, 07:15:04",
-        "title": "Stephen Colbert Celebrates the Passing of the Stimulus Bill",
-        "full_article": "https://www.nytimes.com/2021/03/11/arts/television/stephen-colbert-stimulus-bill.html",
-        "author": [
-            "Trish Bendix"
-        ]
-    },
-    {
-        "date": "03/12/2021, 18:37:24",
-        "title": "Awkward Encounters With Sally Rooney’s Intense, Lovelorn Characters",
-        "full_article": "https://www.nytimes.com/2021/03/12/books/awkward-encounters-with-sally-rooneys-intense-lovelorn-characters.html",
-        "author": [
-            "Walter Scott"
-        ]
-    },
-    {
-        "date": "03/12/2021, 20:19:33",
-        "title": "Why the Rape Claim Against Australia’s Attorney General Seems Familiar",
-        "full_article": "https://www.nytimes.com/2021/03/12/world/australia/christian-porter-brett-kavanaugh.html",
-        "author": [
-            "Yan Zhuang"
         ]
     }
 ]
